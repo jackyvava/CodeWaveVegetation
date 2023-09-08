@@ -1,2 +1,2 @@
 # CodeWaveVegetation
-第一次进行git的使用，这是一个测试项目
+该项目是用来存放毕业论文代码的
