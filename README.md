@@ -1,1 +1,2 @@
 # CodeWaveVegetation
+第一次进行git的使用，这是一个测试项目
