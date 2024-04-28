@@ -1,2 +1,2 @@
 # CodeWaveVegetation
-该项目是用来存放毕业论文代码的
+vegetation and wave simulation project
